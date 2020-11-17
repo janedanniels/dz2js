@@ -1,7 +1,7 @@
 
-var first = +prompt('Введите первое число!');1
-var second = +prompt('Введите второе число!')  ;2
-var third = +prompt('Введите третье число!') ;5
+var first = +prompt('Введите первое число!');
+var second = +prompt('Введите второе число!');
+var third = +prompt('Введите третье число!');
 
 
 if(first > second && first < third || first < second && first > third){
